@@ -1,0 +1,7 @@
+{
+  "rewrites": [
+    { "source": "/pincode", "destination": "/api/postal" },
+    { "source": "/postoffice", "destination": "/api/postal" },
+    { "source": "/postal", "destination": "/api/postal" }
+  ]
+}
